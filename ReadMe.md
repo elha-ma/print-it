@@ -1,1 +1,2 @@
-# Print-It WebSite v.1
+Création d'un carroussel d'images en Javascript
+
